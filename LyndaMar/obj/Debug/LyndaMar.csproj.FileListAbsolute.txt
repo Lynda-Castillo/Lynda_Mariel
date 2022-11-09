@@ -1,0 +1,8 @@
+C:\Users\Marie\source\repos\LyndaMar\LyndaMar\bin\Debug\LyndaMar.exe.config
+C:\Users\Marie\source\repos\LyndaMar\LyndaMar\bin\Debug\LyndaMar.exe
+C:\Users\Marie\source\repos\LyndaMar\LyndaMar\bin\Debug\LyndaMar.pdb
+C:\Users\Marie\source\repos\LyndaMar\LyndaMar\obj\Debug\LyndaMar.csproj.AssemblyReference.cache
+C:\Users\Marie\source\repos\LyndaMar\LyndaMar\obj\Debug\LyndaMar.csproj.SuggestedBindingRedirects.cache
+C:\Users\Marie\source\repos\LyndaMar\LyndaMar\obj\Debug\LyndaMar.csproj.CoreCompileInputs.cache
+C:\Users\Marie\source\repos\LyndaMar\LyndaMar\obj\Debug\LyndaMar.exe
+C:\Users\Marie\source\repos\LyndaMar\LyndaMar\obj\Debug\LyndaMar.pdb
